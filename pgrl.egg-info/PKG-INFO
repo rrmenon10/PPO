@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pgrl
+Version: 0.1.0
+Summary: Policy Gradient RL algorithms for environments in MuJoCo
+Home-page: https://github.com/rrmenon10/pgrl.git
+Author: Rakesh R Menon
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
